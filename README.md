@@ -75,6 +75,8 @@ To run this project locally:
 # **cd Telegram-Encryption-Bot** 
 
 # **node run.js**
+⚠️ Important Note
+You must replace const BOT_TOKEN = "YOUR_BOT_TOKEN"; with your actual bot token for it to work properly.
 
 # **Bot's Purpose and Benefits*
 Purpose:
