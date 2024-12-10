@@ -66,5 +66,22 @@ Applies the Rail Fence cipher, commonly used for transposition encoding.
 Converts text into leet speak. For example, "elite" becomes 3l1t3.
 
 🚀 How to Use the Bot
+Installation and Setup
+To run this project locally:
 
+Clone this repository:
+
+bash
+Copy code
+git clone https://github.com/your-username/telegram-encryption-bot.git
+Navigate to the project folder:
+
+bash
+Copy code
+cd telegram-encryption-bot
+Install the required dependencies:
+
+bash
+Copy code
+npm install
 
