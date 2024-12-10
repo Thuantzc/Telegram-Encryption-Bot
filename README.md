@@ -68,20 +68,10 @@ Converts text into leet speak. For example, "elite" becomes 3l1t3.
 🚀 How to Use the Bot
 Installation and Setup
 To run this project locally:
+# **SETUP ( npm install telegraf , npm install node-fetch )**  
 
-Clone this repository:
+# **git clone https://github.com/Thuantzc/Telegram-Encryption-Bot** 
 
-bash
-Copy code
-git clone https://github.com/your-username/telegram-encryption-bot.git
-Navigate to the project folder:
+# **cd Telegram-Encryption-Bot** 
 
-bash
-Copy code
-cd telegram-encryption-bot
-Install the required dependencies:
-
-bash
-Copy code
-npm install
-
+# **node install.js**
