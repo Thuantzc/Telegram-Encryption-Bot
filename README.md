@@ -89,3 +89,5 @@ Benefits:
 👌 Easy to Use: Simple and memorable commands.
 🔄 Versatile Encryption: Supports up to 20 different encryption types.
 This bot ensures the protection of sensitive data and enhances security when communicating through Telegram.
+
+![image](https://github.com/user-attachments/assets/96c18f28-d2ee-4a76-8118-ea18d3ef2da0)
