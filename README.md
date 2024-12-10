@@ -74,4 +74,16 @@ To run this project locally:
 
 # **cd Telegram-Encryption-Bot** 
 
-# **node install.js**
+# **node run.js**
+
+# **Bot's Purpose and Benefits*
+Purpose:
+Telegram Encryption Bot helps encrypt and decrypt sensitive information through various encryption methods, ensuring data security when transmitted via Telegram.
+
+Benefits:
+🔒 Data Security: Encrypts information to protect it from unauthorized access.
+⚡ Convenient: Encrypt and decrypt directly within Telegram.
+🔐 Multiple Encryption Methods: Supports methods like Base64, MD5, SHA256, etc.
+👌 Easy to Use: Simple and memorable commands.
+🔄 Versatile Encryption: Supports up to 20 different encryption types.
+This bot ensures the protection of sensitive data and enhances security when communicating through Telegram.
